@@ -1,4 +1,4 @@
 # Movie App 2022
 
-Знакомство React 
+Знакомство c React 
 start: 21/10/22
